@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming languages and making projects.
 - 🌱 I’m currently learning something.
 - 💞️ I’m looking to collaborate on web development, making application & softwere program.
-- 📫 How to reach me = mail me or follow and sned me massege on social media.
+- 📫 How to reach me : Mail me.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am lazy.
 
